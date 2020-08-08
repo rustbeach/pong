@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc735171-7ea2-46d5-ae33-fb929d7af763" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/audio/Computer_Music_All-Stars_-_Albatross_v2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/Computer_Music_All-Stars_-_Wheres_My_Jetpack.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/bounce.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/score.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/square.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/texture/pong_spritesheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/texture/pong_spritesheet.ron" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/input.ron" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/input_controller.ron" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/audio.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bundle.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pong.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/systems/bounce.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/systems/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/systems/move_balls.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/systems/paddle.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/systems/winner.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="admincluster.mwpdemos.com" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="48e5pdx5" />
+  </component>
+  <component name="ProjectId" id="1fpy92fhnNAdk46OcxoNTtnvGGk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run pong" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package pong --bin pong" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo Command.Run pong" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc735171-7ea2-46d5-ae33-fb929d7af763" name="Default Changelist" comment="" />
+      <created>1596929173319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596929173319</updated>
+      <workItem from="1596929174401" duration="972000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="274" key="GridCell.Tab.0.bottom" timestamp="1596929832494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596929832494" />
+    <state width="1237" height="274" key="GridCell.Tab.0.center" timestamp="1596929832494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="274" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596929832494" />
+    <state width="1237" height="274" key="GridCell.Tab.0.left" timestamp="1596929832494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="274" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596929832494" />
+    <state width="1237" height="274" key="GridCell.Tab.0.right" timestamp="1596929832494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="274" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596929832494" />
+  </component>
+</project>
